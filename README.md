@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Murat ARSLAN</h1>
 <h3 align="center">A passionate developer, ex electrical and electronics engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arslanmurat06&label=Profile%20views&color=0e75b6&style=flat" alt="arslanmurat06" /> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/arslanmurat06](https://github.com/arslanmurat06)
 
 - 📝 I regularly write articles on [https://arslanmurat06.github.io/](https://arslanmurat06.github.io/)
